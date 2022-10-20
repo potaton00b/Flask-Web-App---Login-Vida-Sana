@@ -1,0 +1,18 @@
+.navbar{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    
+}
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+
+#login{
+    color: yellow;
+    font-size: 30px;
+}
