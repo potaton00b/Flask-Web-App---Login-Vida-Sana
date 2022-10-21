@@ -1,1 +1,0 @@
-<?php include_once("website/templates/home.html"); ?>
