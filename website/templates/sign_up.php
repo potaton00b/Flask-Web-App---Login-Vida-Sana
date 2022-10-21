@@ -1,1 +1,1 @@
-<?php include_once("./sign_up.html"); ?>
+<?php include_once("website/templates/sign_up.html"); ?>
